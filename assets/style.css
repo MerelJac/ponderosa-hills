@@ -10,7 +10,7 @@ h2 {
     vertical-align: middle;
     padding: 221px;
     position: relative;
-    padding-right: 87px;
+    padding-right: 227px;
     font-size: 58px;
     color: white;
     letter-spacing: 13px;
@@ -36,6 +36,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
 }
 
