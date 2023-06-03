@@ -13,3 +13,5 @@ https://mereljac.github.io/ponderosa-hills/
 
 ## Notes 
 This webpage is intended for use only that of Ponderosa Hills Home Owners Assocation. 
+
+This webpage is currently styled for desktop use only. 
