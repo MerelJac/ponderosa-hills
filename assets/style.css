@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap');
 
 * {
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 2px;
 }
 h2 {
-    color: white;
     display: flex;
     justify-content: end;
     vertical-align: middle;
-    padding: 147px;
+    padding: 221px;
     position: relative;
-    padding-right: 153px;
-    color: white;
-    text-shadow: 5px 2px hotpink;
+    padding-right: 87px;
     font-size: 58px;
+    color: white;
+    letter-spacing: 13px;
+    text-shadow: 3px 0px 0px teal;
 }
 
 html, body {
@@ -39,6 +39,9 @@ html, body {
 
 }
 
+p {
+    font-family: 'Roboto', sans-serif;
+}
 .card{
     color: orange;
     font-size: 30px;
@@ -53,10 +56,25 @@ html, body {
 
 #hoa-section {
     display: none;
+    flex-direction: column;
+    margin: 90px;
 }
 #poolrules-section {
     display: none;
+    flex-direction: column;
+    margin: 90px;
 }
 #other-section {
     display: none;
+    flex-direction: column;
+    margin: 90px;
+}
+
+.title {
+    color: green;
+}
+
+.pdf-link {
+    text-decoration: none;
+    color: black;
 }
