@@ -92,3 +92,12 @@ footer {
     color: teal;
     text-decoration: none;
 }
+
+@media screen and (max-width: 450px) {
+    h2 {
+        font-size: 157px;
+        padding-top: 400px;
+        padding-right: 64px;
+        text-align: end;
+    }
+}
